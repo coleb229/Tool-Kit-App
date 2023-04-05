@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Tool-Kit-App/static/css/main.073c9b0a.css",
+    "main.js": "/Tool-Kit-App/static/js/main.26e69fdb.js",
+    "static/js/787.20116423.chunk.js": "/Tool-Kit-App/static/js/787.20116423.chunk.js",
+    "index.html": "/Tool-Kit-App/index.html",
+    "main.073c9b0a.css.map": "/Tool-Kit-App/static/css/main.073c9b0a.css.map",
+    "main.26e69fdb.js.map": "/Tool-Kit-App/static/js/main.26e69fdb.js.map",
+    "787.20116423.chunk.js.map": "/Tool-Kit-App/static/js/787.20116423.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.26e69fdb.js"
+  ]
+}
